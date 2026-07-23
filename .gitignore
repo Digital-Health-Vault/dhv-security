@@ -1,0 +1,228 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.idea/
+out/
+*.swp
+*.swo
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+.factorypath
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Gradle
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# NetBeans
+nbproject/
+.nb-gradle/
+nbbuild/
+dist/
+nbdist/
+
+# JetBrains IDEs (general)
+.DS_Store
+*.class
+*.jar
+*.log
+*.ctxt
+.mtj.tmp/
+*.jmod
+hssfworkbook.tmp
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Spring Boot
+HELP.md
+application-*.properties
+application-*.yml
+
+# Logs
+logs/
+*.log
+*.log.*
+log*.txt
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.h2.db
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.exe
+
+# Linux
+.directory
+
+# macOS
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# SonarQube
+.scannerwork/
+.sonar/
+
+# Code coverage
+coverage/
+*.gcov
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Node (if using frontend build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.~*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Docker
+.docker/
+
+# Build directories and artifacts
+build/
+dist/
+bin/
+.gradle/
+*.o
+*.so
+*.dylib
+
+# IDE temporary/cache files
+*.sublime-project
+*.sublime-workspace
+.vscode-server/
+.project
+.pydevproject
+.settings
+
+# System temporary files
+tmp/
+temp/
+.tmp/
+
+# Local development
+local/
+.local/
+
+# Documentation build
+docs/_build/
+site/
+
+# Backup files
+*.backup
+*.bak
+*.orig
+
+# Private/sensitive files
+*.pem
+*.key
+*.p8
+secrets.properties
+credentials.*
+
+# IDE metadata
+.vscode
+.idea
+.sublime-text-project
+.sublime-workspace
+*.code-workspace
+
+# Build-related
+.gradle
+.mvn
+mvnw
+mvnw.cmd
+
+# Test coverage
+*.lcov
+.nyc_output/
+coverage
+
+# Package manager caches
+.npm
+.yarn
+.pnpm-store/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.com
+*.class
+*.o
+*.so
+
+# Misc
+.cache/
+dist/
+.hypothesis/
+

@@ -1,0 +1,2 @@
+# Spring Boot AutoConfiguration imports
+com.digitalhealthvault.security.config.SecurityAutoConfiguration
